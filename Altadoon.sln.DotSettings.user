@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/Environment/SearchAndNavigation/MergeOccurences/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark1/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark1/Coords/@EntryValue">(Doc Ln 81 Col 0)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark1/FileId/@EntryValue">8EBB95C6-7CAD-41ED-B186-F0C65A16B5F6/f:Game1.cs</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark1/Owner/@EntryValue">NumberedBookmarkManager</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/Coords/@EntryValue">(Doc Ln 172 Col 12)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/FileId/@EntryValue">8EBB95C6-7CAD-41ED-B186-F0C65A16B5F6/f:Game1.cs</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark2/Owner/@EntryValue">NumberedBookmarkManager</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark4/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark4/Coords/@EntryValue">(Doc Ln 158 Col 30)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark4/FileId/@EntryValue">8EBB95C6-7CAD-41ED-B186-F0C65A16B5F6/d:Components/d:Camera/f:CameraComponent.cs</s:String>
+	<s:String x:Key="/Default/Housekeeping/Bookmarks/NumberedBookmarks/=Bookmark4/Owner/@EntryValue">NumberedBookmarkManager</s:String></wpf:ResourceDictionary>
